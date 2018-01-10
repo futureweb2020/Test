@@ -33,3 +33,22 @@
         display: none;
     }
 }
+
+.c-container__box
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.c-container__box-editor
+{
+    border: 1px solid;
+    width: 30%;
+    height: 200px;
+}
+
+.c-container__box-toolbar
+{
+    width: 30%;
+}
